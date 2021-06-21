@@ -13,5 +13,5 @@ or [Gacela](https://github.com/gacela-project/gacela).
 #### ✍️ Knowledge Sharing
 
 I love writing about stuff, that's why I created a [tech blog](https://chemaclass.es/blog/), and
-a [readings blog](https://chemaclass.es/readings/). There I write a post every month about tech, habits, team behaviors,
-and everything that I find interesting and brings some value to my life.
+my [readings blog](https://chemaclass.es/readings/). There I write a post every month about tech, habits, team
+behaviors, and everything that I find interesting and brings some value to my life.
