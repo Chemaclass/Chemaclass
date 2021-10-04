@@ -1,4 +1,4 @@
-Hello there! I am [Chema](https://chemaclass.es/about).
+Hello there! I am [Chema](https://chemaclass.es).
 
 ---
 
