@@ -14,7 +14,4 @@ jobs:
         with:
           feed_list: "https://chemaclass.es/atom.xml"
           max_post_count: 3
-          template: "- $date | [$title]($url) $description"
           date_format: "yyyy-mm-dd"
-          tag_post_pre_newline: true
-          description_max_length: "50"
