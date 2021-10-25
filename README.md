@@ -19,4 +19,9 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leadership is Language](https://chemaclass.es/readings/leadership-is-language/)
+- [Red Work vs Blue Work](https://chemaclass.es/blog/red-work-blue-work/)
+- [TDD vs BDD](https://chemaclass.es/blog/tdd-vs-bdd/)
+- [The Bitcoin Standard](https://chemaclass.es/readings/the-bitcoin-standard/)
+- [Turn the Ship Around!](https://chemaclass.es/readings/turn-the-ship-around/)
 <!-- BLOG-POST-LIST:END -->
