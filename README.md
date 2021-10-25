@@ -15,3 +15,8 @@ or [Gacela](https://github.com/gacela-project/gacela).
 I love writing about stuff, that's why I created a [tech blog](https://chemaclass.es/blog/), and
 my [readings blog](https://chemaclass.es/readings/). There I write a post every month about tech, habits, team
 behaviors, and everything that I find interesting and brings some value to my life.
+
+##### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
