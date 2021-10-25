@@ -19,4 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leadership is Language](https://chemaclass.es/readings/leadership-is-language/)
+- [Red Work vs Blue Work](https://chemaclass.es/blog/red-work-blue-work/)
+- [TDD vs BDD](https://chemaclass.es/blog/tdd-vs-bdd/)
 <!-- BLOG-POST-LIST:END -->
