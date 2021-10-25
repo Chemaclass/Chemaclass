@@ -16,12 +16,7 @@ I love writing about stuff, that's why I created a [tech blog](https://chemaclas
 my [readings blog](https://chemaclass.es/readings/). There I write a post every month about tech, habits, team
 behaviors, and everything that I find interesting and brings some value to my life.
 
-##### Blog posts
+##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Leadership is Language](https://chemaclass.es/readings/leadership-is-language/)
-- [Red Work vs Blue Work](https://chemaclass.es/blog/red-work-blue-work/)
-- [TDD vs BDD](https://chemaclass.es/blog/tdd-vs-bdd/)
-- [The Bitcoin Standard](https://chemaclass.es/readings/the-bitcoin-standard/)
-- [Turn the Ship Around!](https://chemaclass.es/readings/turn-the-ship-around/)
 <!-- BLOG-POST-LIST:END -->
