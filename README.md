@@ -1,10 +1,10 @@
-Hello there! I am [Chema](https://chemaclass.es).
+Hello there! I am [Chema](https://chemaclass.com).
 
 ---
 
 #### 🏗 Software
 
-I work as a software developer at [Teufel Audio](http://teufel.de/), and in my free time, I like to contribute
+I work as a Tech Lead at [Lautsprecher Teufel GmbH](http://teufel.de/), and in my free time, I like to contribute
 to [OSS](https://chemaclass.es/blog/open-source-software/), such as [Phel](https://github.com/phel-lang/phel-lang)
 or [Gacela](https://github.com/gacela-project/gacela).
 
