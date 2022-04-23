@@ -19,7 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Update your team to be more extreme](https://chemaclass.es/blog/update-your-team-to-be-more-extreme/)
-- [The power of authority and obedience](https://chemaclass.es/blog/the-power-of-authority-and-obedience/)
-- [Modern CTO](https://chemaclass.es/readings/modern-cto/)
+- [Dunbar number](https://chemaclass.com/blog/dunbar-number/)
+- [Team Topologies](https://chemaclass.com/readings/team-topologies/)
+- [The Psychology of Money](https://chemaclass.com/readings/the-psychology-of-money/)
 <!-- BLOG-POST-LIST:END -->
