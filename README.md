@@ -19,7 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dunbar number](https://chemaclass.com/blog/dunbar-number/)
-- [Team Topologies](https://chemaclass.com/readings/team-topologies/)
-- [The Psychology of Money](https://chemaclass.com/readings/the-psychology-of-money/)
+- [The path to seniority in software](https://chemaclass.com/blog/the-path-to-seniority-in-software/)
+- [Bikeshedding](https://chemaclass.com/blog/bikeshedding/)
+- [Docker: SecDevOps](https://chemaclass.com/readings/docker-secdevops/)
 <!-- BLOG-POST-LIST:END -->
