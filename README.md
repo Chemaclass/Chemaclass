@@ -19,7 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clean Craftsmanship](https://chemaclass.com/readings/clean-craftsmanship/)
 - [Modern Software Engineering](https://chemaclass.com/readings/modern-software-engineering/)
 - [The path to seniority in software](https://chemaclass.com/blog/the-path-to-seniority-in-software/)
-- [Bikeshedding](https://chemaclass.com/blog/bikeshedding/)
 <!-- BLOG-POST-LIST:END -->
