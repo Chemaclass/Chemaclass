@@ -19,7 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Craftsmanship](https://chemaclass.com/readings/clean-craftsmanship/)
-- [Modern Software Engineering](https://chemaclass.com/readings/modern-software-engineering/)
-- [The path to seniority in software](https://chemaclass.com/blog/the-path-to-seniority-in-software/)
+- [The Great CEO Within](https://chemaclass.com/readings/the-great-ceo-within/)
+- [The Project Management Triangle](https://chemaclass.com/blog/the-project-management-triangle/)
+- [The Starfish and the Spider](https://chemaclass.com/readings/the-starfish-and-the-spider/)
 <!-- BLOG-POST-LIST:END -->
