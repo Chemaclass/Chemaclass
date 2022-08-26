@@ -19,7 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding people](https://chemaclass.com/blog/understanding-people/)
+- [Continuous Discovery Habits](https://chemaclass.com/readings/continuous-discovery-habits/)
 - [The Great CEO Within](https://chemaclass.com/readings/the-great-ceo-within/)
-- [The Project Management Triangle](https://chemaclass.com/blog/the-project-management-triangle/)
-- [The Starfish and the Spider](https://chemaclass.com/readings/the-starfish-and-the-spider/)
 <!-- BLOG-POST-LIST:END -->
