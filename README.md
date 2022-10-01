@@ -19,7 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear to lead](https://chemaclass.com/readings/dear-to-lead/)
+- [Dare to lead](https://chemaclass.com/readings/dare-to-lead/)
 - [The beauty of leadership](https://chemaclass.com/blog/the-beauty-of-leadership/)
 - [Understanding people](https://chemaclass.com/blog/understanding-people/)
 <!-- BLOG-POST-LIST:END -->
