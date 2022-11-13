@@ -19,7 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Working agile with non-agile teams](https://chemaclass.com/blog/working-agile-with-non-agile-teams/)
+- [The Essential Drucker](https://chemaclass.com/readings/the-essential-drucker/)
 - [Different beliefs about software quality](https://chemaclass.com/blog/different-beliefs-about-software-quality/)
-- [Dare to lead](https://chemaclass.com/readings/dare-to-lead/)
-- [The beauty of leadership](https://chemaclass.com/blog/the-beauty-of-leadership/)
 <!-- BLOG-POST-LIST:END -->
