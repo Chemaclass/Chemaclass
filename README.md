@@ -19,7 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ignoring Scrum to get more Agile?](https://chemaclass.com/blog/ignoring-scrum-to-get-more-agile/)
+- [Recipes for Decoupling](https://chemaclass.com/readings/recipes-for-decoupling/)
 - [Working agile with non-agile teams](https://chemaclass.com/blog/working-agile-with-non-agile-teams/)
-- [The Essential Drucker](https://chemaclass.com/readings/the-essential-drucker/)
-- [Different beliefs about software quality](https://chemaclass.com/blog/different-beliefs-about-software-quality/)
 <!-- BLOG-POST-LIST:END -->
