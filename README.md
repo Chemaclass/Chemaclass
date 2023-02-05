@@ -19,7 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The infinite game](https://chemaclass.com/readings/the-infinite-game/)
 - [Interview about XP and Agile](https://chemaclass.com/blog/interview-about-xp-and-agile/)
 - [Momo](https://chemaclass.com/readings/momo/)
-- [Ignoring Scrum to get more Agile?](https://chemaclass.com/blog/ignoring-scrum-to-get-more-agile/)
 <!-- BLOG-POST-LIST:END -->
