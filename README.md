@@ -19,7 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Great leadership](https://chemaclass.com/blog/great-leadership/)
+- [Adapt or die](https://chemaclass.com/readings/adapt-or-die/)
 - [The infinite game](https://chemaclass.com/readings/the-infinite-game/)
-- [Interview about XP and Agile](https://chemaclass.com/blog/interview-about-xp-and-agile/)
-- [Momo](https://chemaclass.com/readings/momo/)
 <!-- BLOG-POST-LIST:END -->
