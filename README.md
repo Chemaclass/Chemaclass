@@ -19,7 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dedicated QA Teams in software?](https://chemaclass.com/blog/dedicated-qa-teams/)
 - [Effective Remote Work](https://chemaclass.com/readings/effective-remote-work/)
 - [Introducing a new tech stack](https://chemaclass.com/blog/introducing-a-new-tech-stack/)
-- [Accelerate](https://chemaclass.com/readings/accelerate/)
 <!-- BLOG-POST-LIST:END -->
