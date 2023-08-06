@@ -19,7 +19,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How do you get everyone on board?](https://chemaclass.com/blog/how-do-you-get-everyone-on-board/)
+- [The Book Of Satoshi](https://chemaclass.com/readings/the-book-of-satoshi/)
 - [Never ending loop](https://chemaclass.com/blog/never-ending-loop/)
-- [Fahrenheit 451](https://chemaclass.com/readings/fahrenheit-451/)
-- [The Blocksize War](https://chemaclass.com/readings/the-blocksize-war/)
 <!-- BLOG-POST-LIST:END -->
