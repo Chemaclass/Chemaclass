@@ -4,9 +4,10 @@ Hello there! I am [Chema](https://chemaclass.com).
 
 #### 🏗 Software
 
-I work as a Tech Lead at [Lautsprecher Teufel GmbH](http://teufel.de/), and in my free time, I like to contribute
-to [OSS](https://chemaclass.es/blog/open-source-software/), such as [Phel](https://github.com/phel-lang/phel-lang)
-or [Gacela](https://github.com/gacela-project/gacela).
+I work as a <span title="The most inspiring and personal fashion online shop in Europe">Tech Lead at <a target="_blank" href="https://aboutyou.com/">About You</a></span>, 
+and in my free time, I like to contribute
+to <span title="A Functional Programming language that transpiles to PHP"><a target="_blank" href="https://phel-lang.org">Phel</a></span> 
+or <span title="A library that helps you build modular PHP applications"><a target="_blank" href="https://gacela-project.com/">Gacela</a></span>.
 
 ---
 
