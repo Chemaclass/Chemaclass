@@ -23,7 +23,7 @@ behaviors, and everything that I find interesting and brings some value to my li
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Peter Principle](https://chemaclass.com/blog/the-peter-principle/)
 - [It&#39;s Your Ship](https://chemaclass.com/readings/its-your-ship/)
 - [The Day of the Triffids](https://chemaclass.com/readings/the-day-of-the-triffids/)
-- [How do you get everyone on board?](https://chemaclass.com/blog/how-do-you-get-everyone-on-board/)
 <!-- BLOG-POST-LIST:END -->
