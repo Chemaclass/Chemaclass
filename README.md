@@ -22,7 +22,7 @@ I enjoy writing about topics that I find exciting and bring some value to my lif
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unhealthy working environment](https://chemaclass.com/blog/unhealthy-working-environment/)
 - [The Peter Principle](https://chemaclass.com/blog/the-peter-principle/)
 - [It&#39;s Your Ship](https://chemaclass.com/readings/its-your-ship/)
-- [The Day of the Triffids](https://chemaclass.com/readings/the-day-of-the-triffids/)
 <!-- BLOG-POST-LIST:END -->
