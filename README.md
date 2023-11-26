@@ -22,7 +22,7 @@ I enjoy writing about topics that I find exciting and bring some value to my lif
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Forming, Storming, Norming and Performing](https://chemaclass.com/blog/forming-storming-norming-performing/)
+- [The Alchemist](https://chemaclass.com/readings/the-alchemist/)
 - [Crucial Conversations](https://chemaclass.com/readings/crucial-conversations/)
-- [How to test private methods?](https://chemaclass.com/blog/how-to-test-private-methods/)
-- [Unhealthy working environment](https://chemaclass.com/blog/unhealthy-working-environment/)
 <!-- BLOG-POST-LIST:END -->
