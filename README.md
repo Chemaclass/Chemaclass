@@ -22,7 +22,7 @@ I enjoy writing about topics that I find exciting and bring some value to my lif
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deployments on Fridays](https://chemaclass.com/blog/deployments-on-fridays/)
 - [The Lean Startup](https://chemaclass.com/readings/the-lean-startup/)
 - [Great engineering](https://chemaclass.com/blog/great-engineering/)
-- [Invincible](https://chemaclass.com/readings/invincible/)
 <!-- BLOG-POST-LIST:END -->
