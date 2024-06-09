@@ -23,6 +23,6 @@ I enjoy writing about topics that I find exciting and bring some value to my lif
 
 <!-- BLOG-POST-LIST:START -->
 - [The Phoenix Project](https://chemaclass.com/readings/the-phoenix-project/)
+- [What kills agility?](https://chemaclass.com/blog/what-kills-agility/)
 - [Radical Candor](https://chemaclass.com/readings/radical-candor/)
-- [Learning concurrency in Golang](https://chemaclass.com/blog/learning-concurrency-in-golang/)
 <!-- BLOG-POST-LIST:END -->
