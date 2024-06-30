@@ -22,7 +22,7 @@ I enjoy writing about topics that I find exciting and bring some value to my lif
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prisoner&#39;s Dilemma](https://chemaclass.com/blog/prisoners-dilemma/)
 - [The Genesis Book](https://chemaclass.com/readings/the-genesis-book/)
 - [The Phoenix Project](https://chemaclass.com/readings/the-phoenix-project/)
-- [What kills agility?](https://chemaclass.com/blog/what-kills-agility/)
 <!-- BLOG-POST-LIST:END -->
