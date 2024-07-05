@@ -7,8 +7,7 @@ Hello there! I am
 
 #### 🏗 Software
 
-I work as a <span title="The most inspiring and personal fashion online shop in Europe">Tech Lead at <a target="_blank" href="https://aboutyou.com/">About You</a></span>, 
-and active OSS contributor 
+Software developer since 2013, and active OSS contributor 
 to <span title="A Functional Programming language that transpiles to PHP"><a target="_blank" href="https://phel-lang.org">Phel</a></span>,
 <span title="A library that helps you build modular PHP applications"><a target="_blank" href="https://gacela-project.com/">Gacela</a></span>
 and <span title="A simple testing library for bash scripts"><a target="_blank" href="https://bashunit.typeddevs.com/">bashunit</a></span>.
