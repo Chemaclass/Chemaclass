@@ -21,7 +21,7 @@ I enjoy writing about topics that I find exciting and bring some value to my lif
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [People skills](https://chemaclass.com/blog/people-skills/)
 - [What is Waterfall?](https://chemaclass.com/blog/what-is-waterfall/)
 - [Programmable Money](https://chemaclass.com/blog/programmable-money/)
-- [Mastering Bitcoin](https://chemaclass.com/readings/mastering-bitcoin/)
 <!-- BLOG-POST-LIST:END -->
