@@ -25,7 +25,7 @@ I like to write a monthly post about tech, habits, leadership, team behaviors, a
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cypherpunks](https://chemaclass.com/blog/the-cypherpunks/)
+- [Man&#39;s Search for Meaning](https://chemaclass.com/readings/mans-search-for-meaning/)
 - [Verified git commits](https://chemaclass.com/blog/verified-git-commits/)
-- [bashunit](https://chemaclass.com/blog/bashunit/)
-- [People skills](https://chemaclass.com/blog/people-skills/)
 <!-- BLOG-POST-LIST:END -->
