@@ -25,7 +25,7 @@ I like to write a monthly post about tech, habits, leadership, team behaviors, a
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Criptoria](https://chemaclass.com/readings/criptoria/)
 - [Bitcoin with Rigor](https://chemaclass.com/readings/bitcoin-with-rigor/)
 - [Understanding Taxes](https://chemaclass.com/blog/understanding-taxes/)
-- [The Cypherpunks](https://chemaclass.com/blog/the-cypherpunks/)
 <!-- BLOG-POST-LIST:END -->
