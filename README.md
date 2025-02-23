@@ -25,7 +25,7 @@ I like to write a monthly post about tech, habits, leadership, team behaviors, a
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Run your LN node on a Raspberry Pi](https://chemaclass.com/blog/run-your-ln-node/)
+- [Digital Minimalism](https://chemaclass.com/readings/digital-minimalism/)
 - [Criptoria](https://chemaclass.com/readings/criptoria/)
-- [Bitcoin with Rigor](https://chemaclass.com/readings/bitcoin-with-rigor/)
-- [Understanding Taxes](https://chemaclass.com/blog/understanding-taxes/)
 <!-- BLOG-POST-LIST:END -->
