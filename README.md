@@ -25,7 +25,7 @@ I like to write a monthly post about tech, habits, leadership, team behaviors, a
 ##### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ship, Show, Ask](https://chemaclass.com/blog/ship-show-ask/)
 - [The Road to Serfdom](https://chemaclass.com/readings/the-road-to-serfdom/)
 - [Run your LN node on a Raspberry Pi](https://chemaclass.com/blog/run-your-ln-node/)
-- [Digital Minimalism](https://chemaclass.com/readings/digital-minimalism/)
 <!-- BLOG-POST-LIST:END -->
