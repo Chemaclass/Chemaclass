@@ -1,28 +1,40 @@
-Hello there! I am 
-<span title="Why? {Che: Jose, ma: Maria}">
-<a target="_blank" href="https://chemaclass.com/">Chema</a></span>, 
-and I like to create and participate in open-source software projects.
+<h1 align="center">Hey there, I'm 
+    <span title="Why? {Che: Jose, ma: Maria}">
+        <a href="https://chemaclass.com/" target="_blank">Chema</a> 👋
+    </span>
+</h1>
 
-> _Individuals and interactions over processes and tools._
+<p align="center">
+  A curious developer who loves building and contributing to open-source projects.
+</p>
 
----
-
-#### 🏗 Software
-
-Software developer since 2013 and active contributor to 
-<span title="A simple testing library for bash scripts"><a target="_blank" href="https://bashunit.typeddevs.com/">bashunit</a></span>,
-<span title="A Functional Programming language that transpiles to PHP"><a target="_blank" href="https://phel-lang.org">phel</a></span>,
-and <span title="A library that helps you build modular PHP applications"><a target="_blank" href="https://gacela-project.com/">gacela</a></span>.
+<p align="center"><em>“Individuals and interactions over processes and tools.”</em></p>
 
 ---
 
-#### ✍️ Knowledge Sharing
+### 🏗 About Me
 
-I enjoy writing about topics that I find exciting and bring some value to my life. 
-That is why I created my [tech blog](https://chemaclass.es/blog/) and my [readings blog](https://chemaclass.es/readings/). 
-I like to write a monthly post about tech, habits, leadership, team behaviors, among other topics.
+- 💻 Software developer since **2013**.
+- 🛠 Passionate about building tools that empower developers.
+- 🌱 Always learning, always sharing.
 
-##### Latest posts
+I believe in writing simple, maintainable code and collaborating on meaningful software.
+
+---
+
+### 🔧 Projects & Contributions
+
+Some projects I actively maintain or contribute to [**Satscribe**](https://satscribe.chema.me/), [**bashunit**](https://bashunit.typeddevs.com/), [**phel-lang**](https://phel-lang.org), [**gacela**](https://gacela-project.com/).
+
+---
+
+### ✍️ Writing & Knowledge Sharing
+
+I love writing about technology, habits, team culture, and more. I do this in my [Tech Blog](https://chemaclass.es/blog/) and my [Readings Blog](https://chemaclass.es/readings/).
+
+Each month I publish a new article covering topics that inspire growth and thoughtful reflection.
+
+#### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Ship, Show, Ask](https://chemaclass.com/blog/ship-show-ask/)
