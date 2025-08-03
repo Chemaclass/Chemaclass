@@ -37,7 +37,7 @@ Each month I publish a new article covering topics that inspire growth and thoug
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Principles of Economics](https://chemaclass.com/readings/principles-of-economics/)
 - [Ship, Show, Ask](https://chemaclass.com/blog/ship-show-ask/)
 - [The Road to Serfdom](https://chemaclass.com/readings/the-road-to-serfdom/)
-- [Run your LN node on a Raspberry Pi](https://chemaclass.com/blog/run-your-ln-node/)
 <!-- BLOG-POST-LIST:END -->
