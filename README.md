@@ -24,7 +24,7 @@ I believe in writing simple, maintainable code and collaborating on meaningful s
 
 ### 🔧 Projects & Contributions
 
-I actively maintain or contribute to [**Satscribe**](https://satscribe.chema.me/), [**bashunit**](https://bashunit.typeddevs.com/), [**phel-lang**](https://phel-lang.org), [**gacela**](https://gacela-project.com/).
+I actively maintain or contribute to [**phel-lang**](https://phel-lang.org), [**bashunit**](https://bashunit.typeddevs.com/), [**satscribe**](https://satscribe.chema.me/), [**gacela**](https://gacela-project.com/).
 
 ---
 
