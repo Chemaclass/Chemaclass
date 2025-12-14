@@ -37,7 +37,7 @@ Each month I publish a new article covering topics that inspire growth and thoug
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Bitcoin](https://chemaclass.com/blog/understanding-bitcoin/)
 - [AI gives you speed, not quality](https://chemaclass.com/blog/ai-gives-you-speed-not-quality/)
 - [What success means to me](https://chemaclass.com/blog/what-success-means-to-me/)
-- [Principles of Economics](https://chemaclass.com/readings/principles-of-economics/)
 <!-- BLOG-POST-LIST:END -->
