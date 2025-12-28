@@ -4,19 +4,6 @@
     </span>
 </h1>
 
-<p align="center">
-  Tech Lead & Open Source creator with 14+ years building software.
-</p>
-
-<p align="center"><em>"Individuals and interactions over processes and tools."</em></p>
-
-<p align="center">
-  <a href="https://chemaclass.com">chemaclass.com</a> ·
-  <a href="https://x.com/Chemaclass">@Chemaclass</a>
-</p>
-
----
-
 ### 🏗 About Me
 
 - 💻 Software developer since **2013**, currently **Tech Lead** at Purpose Green.
@@ -25,8 +12,6 @@
 
 I believe in writing simple, maintainable code and collaborating on meaningful software.
 
----
-
 ### 🔧 Projects & Contributions
 
 I actively maintain and contribute to:
@@ -34,8 +19,6 @@ I actively maintain and contribute to:
 - [**phel-lang**](https://phel-lang.org) — A functional Lisp that compiles to PHP.
 - [**bashunit**](https://bashunit.typeddevs.com/) — A testing library for bash scripts.
 - [**gacela**](https://gacela-project.com/) — Build modular PHP applications.
-
----
 
 ### ✍️ Writing & Knowledge Sharing
 
