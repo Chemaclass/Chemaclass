@@ -1,22 +1,27 @@
-<h1 align="center">Hey there, I'm 
+<h1 align="center">Hey there, I'm
     <span title="Why? {Che: Jose, ma: Maria}">
         <a href="https://chemaclass.com/" target="_blank">Chema</a> 👋
     </span>
 </h1>
 
 <p align="center">
-  A curious developer who loves building and contributing to open-source projects.
+  Tech Lead & Open Source creator with 14+ years building software.
 </p>
 
-<p align="center"><em>“Individuals and interactions over processes and tools.”</em></p>
+<p align="center"><em>"Individuals and interactions over processes and tools."</em></p>
+
+<p align="center">
+  <a href="https://chemaclass.com">chemaclass.com</a> ·
+  <a href="https://x.com/Chemaclass">@Chemaclass</a>
+</p>
 
 ---
 
 ### 🏗 About Me
 
-- 💻 Software developer since **2013**.
-- 🛠 Passionate about building tools that empower developers.
-- 🌱 Always learning, always sharing.
+- 💻 Software developer since **2013**, currently **Tech Lead** at Purpose Green.
+- 🛠 I build tools that empower developers—the best code is often the code you don't write.
+- 🌱 Always learning, always sharing. Simplicity over complexity, always.
 
 I believe in writing simple, maintainable code and collaborating on meaningful software.
 
@@ -24,15 +29,17 @@ I believe in writing simple, maintainable code and collaborating on meaningful s
 
 ### 🔧 Projects & Contributions
 
-I actively maintain or contribute to [**phel-lang**](https://phel-lang.org), [**bashunit**](https://bashunit.typeddevs.com/), [**satscribe**](https://satscribe.chema.me/), [**gacela**](https://gacela-project.com/).
+I actively maintain and contribute to:
+
+- [**phel-lang**](https://phel-lang.org) — A functional Lisp that compiles to PHP.
+- [**bashunit**](https://bashunit.typeddevs.com/) — A testing library for bash scripts.
+- [**gacela**](https://gacela-project.com/) — Build modular PHP applications.
 
 ---
 
 ### ✍️ Writing & Knowledge Sharing
 
-I love writing about technology, habits, team culture, and more. I do this in my [Tech Blog](https://chemaclass.es/blog/) and my [Readings Blog](https://chemaclass.es/readings/).
-
-Each month I publish a new article covering topics that inspire growth and thoughtful reflection.
+I write about technology, team culture, habits, and growth on my [Tech Blog](https://chemaclass.com/blog/) and [Readings Blog](https://chemaclass.com/readings/).
 
 #### 📌 Latest Posts
 
