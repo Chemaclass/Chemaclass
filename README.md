@@ -27,7 +27,7 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Bitcoin Works](https://chemaclass.com/blog/how-bitcoin-works/)
 - [Bitcoin Fundamentals](https://chemaclass.com/blog/bitcoin-fundamentals/)
-- [Capítulo 30: Diciembre, 2025](https://chemaclass.com/books/oeur/es/2025-diciembre/)
 - [AI gives you speed, not quality](https://chemaclass.com/blog/ai-gives-you-speed-not-quality/)
 <!-- BLOG-POST-LIST:END -->
