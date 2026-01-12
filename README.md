@@ -27,7 +27,7 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP: Giving Your AI Agent the Right Context](https://chemaclass.com/blog/mcp-giving-your-ai-agent-the-right-context/)
 - [How Bitcoin Works](https://chemaclass.com/blog/how-bitcoin-works/)
-- [Bitcoin Fundamentals](https://chemaclass.com/blog/bitcoin-fundamentals/)
-- [AI gives you speed, not quality](https://chemaclass.com/blog/ai-gives-you-speed-not-quality/)
+- [Chapter 30: December, 2025](https://chemaclass.com/books/oeur/2025-diciembre/)
 <!-- BLOG-POST-LIST:END -->
