@@ -29,5 +29,4 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 <!-- BLOG-POST-LIST:START -->
 - [MCP: Giving Your AI Agent the Right Context](https://chemaclass.com/blog/mcp-giving-your-ai-agent-the-right-context/)
 - [How Bitcoin Works](https://chemaclass.com/blog/how-bitcoin-works/)
-- [Chapter 30: December, 2025](https://chemaclass.com/books/oeur/2025-diciembre/)
 <!-- BLOG-POST-LIST:END -->
