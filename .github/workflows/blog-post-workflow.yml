@@ -18,4 +18,4 @@ jobs:
           max_post_count: 2
           date_format: "yyyy-mm-dd"
           custom_tags: "subtitle/subtitle/"
-          template: "- $date [$title — $subtitle]($url)$newline"
+          template: "$newline- $date [$title — $subtitle]($url)"
