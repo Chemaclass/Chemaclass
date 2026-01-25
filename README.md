@@ -18,7 +18,6 @@ I actively maintain and contribute to:
 
 - [**phel-lang**](https://phel-lang.org) — A functional Lisp that compiles to PHP.
 - [**bashunit**](https://bashunit.typeddevs.com/) — A testing library for bash scripts.
-- [**gacela**](https://gacela-project.com/) — Build modular PHP applications.
 
 ### ✍️ Writing & Knowledge Sharing
 
