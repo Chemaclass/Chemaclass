@@ -25,7 +25,4 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 
 #### 📌 Latest Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Broken Money](https://chemaclass.com/readings/broken-money/)
-- [MCP: Giving Your AI Agent the Right Context](https://chemaclass.com/blog/mcp-giving-your-ai-agent-the-right-context/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 2026-01-17 [Broken Money — ](https://chemaclass.com/readings/broken-money/)- 2026-01-11 [MCP: Giving Your AI Agent the Right Context — ](https://chemaclass.com/blog/mcp-giving-your-ai-agent-the-right-context/)<!-- BLOG-POST-LIST:END -->
