@@ -26,5 +26,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Broken Money — Why Our Financial System is Failing Us and How We Can Make it Better](https://chemaclass.com/readings/broken-money/)
-- [MCP: Giving Your AI Agent the Right Context — Why context is the real superpower](https://chemaclass.com/blog/mcp-giving-your-ai-agent-the-right-context/)<!-- BLOG-POST-LIST:END -->
+- [Notes from Underground — I am a sick man... I am a spiteful man.](https://chemaclass.com/readings/notes-from-underground/)
+- [Broken Money — Why Our Financial System is Failing Us and How We Can Make it Better](https://chemaclass.com/readings/broken-money/)<!-- BLOG-POST-LIST:END -->
