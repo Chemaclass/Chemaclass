@@ -26,5 +26,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes from Underground — I am a sick man... I am a spiteful man.](https://chemaclass.com/readings/notes-from-underground/)
-- [Broken Money — Why Our Financial System is Failing Us and How We Can Make it Better](https://chemaclass.com/readings/broken-money/)<!-- BLOG-POST-LIST:END -->
+- [Build Your Own Team of Agents — From solo assistant to coordinated workforce](https://chemaclass.com/blog/build-your-own-team-of-agents/)
+- [Notes from Underground — I am a sick man... I am a spiteful man.](https://chemaclass.com/readings/notes-from-underground/)<!-- BLOG-POST-LIST:END -->
