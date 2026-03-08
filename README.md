@@ -26,5 +26,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Team of Agents — From solo assistant to coordinated workforce](https://chemaclass.com/blog/build-your-own-team-of-agents/)
-- [Notes from Underground — I am a sick man... I am a spiteful man.](https://chemaclass.com/readings/notes-from-underground/)<!-- BLOG-POST-LIST:END -->
+- [Idealism vs Pragmatism — Holding both ends of the rope](https://chemaclass.com/blog/idealism-vs-pragmatism/)
+- [Build Your Own Team of Agents — From solo assistant to coordinated workforce](https://chemaclass.com/blog/build-your-own-team-of-agents/)<!-- BLOG-POST-LIST:END -->
