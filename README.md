@@ -26,5 +26,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Idealism vs Pragmatism — Holding both ends of the rope](https://chemaclass.com/blog/idealism-vs-pragmatism/)
-- [Build Your Own Team of Agents — From solo assistant to coordinated workforce](https://chemaclass.com/blog/build-your-own-team-of-agents/)<!-- BLOG-POST-LIST:END -->
+- [The Art of Being Happy — 50 rules for life from philosophy&#39;s most famous pessimist](https://chemaclass.com/readings/the-art-of-being-happy/)
+- [Idealism vs Pragmatism — Holding both ends of the rope](https://chemaclass.com/blog/idealism-vs-pragmatism/)<!-- BLOG-POST-LIST:END -->
