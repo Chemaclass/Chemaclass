@@ -26,5 +26,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Game in Two Days — What happens when you give an AI a quest and get out of the way](https://chemaclass.com/blog/building-a-game-in-two-days/)
-- [The Art of Being Happy — 50 rules for life from philosophy&#39;s most famous pessimist](https://chemaclass.com/readings/the-art-of-being-happy/)<!-- BLOG-POST-LIST:END -->
+- [Inside the .claude Folder — A tutorial through rules, skills, agents, hooks, and settings](https://chemaclass.com/blog/inside-the-claude-folder/)
+- [Building a Game in Two Days — What happens when you give an AI a quest and get out of the way](https://chemaclass.com/blog/building-a-game-in-two-days/)<!-- BLOG-POST-LIST:END -->
