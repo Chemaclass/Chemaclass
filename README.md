@@ -36,5 +36,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Levels of AI Adoption — From copy-paste prompts to agentic teams](https://chemaclass.com/blog/the-levels-of-ai-adoption/)
-- [Inside the .claude Folder — A tutorial through rules, skills, agents, hooks, and settings](https://chemaclass.com/blog/inside-the-claude-folder/)<!-- BLOG-POST-LIST:END -->
+- [Skills Over Agents — Intelligence without expertise is entertainment](https://chemaclass.com/blog/skills-over-agents/)
+- [The Levels of AI Adoption — From copy-paste prompts to agentic teams](https://chemaclass.com/blog/the-levels-of-ai-adoption/)<!-- BLOG-POST-LIST:END -->
