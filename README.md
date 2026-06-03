@@ -36,5 +36,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Skills Over Agents — Intelligence without expertise is entertainment](https://chemaclass.com/blog/skills-over-agents/)
-- [The Levels of AI Adoption — From copy-paste prompts to agentic teams](https://chemaclass.com/blog/the-levels-of-ai-adoption/)<!-- BLOG-POST-LIST:END -->
+- [The Eternal Return — A mirror in the present](https://chemaclass.com/blog/the-eternal-return/)
+- [Skills Over Agents — Intelligence without expertise is entertainment](https://chemaclass.com/blog/skills-over-agents/)<!-- BLOG-POST-LIST:END -->
