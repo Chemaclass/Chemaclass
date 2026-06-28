@@ -36,5 +36,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Eternal Return — A mirror in the present](https://chemaclass.com/blog/the-eternal-return/)
-- [Skills Over Agents — Intelligence without expertise is entertainment](https://chemaclass.com/blog/skills-over-agents/)<!-- BLOG-POST-LIST:END -->
+- [Cut the Token Bill on Both Ends — Two leaks, two patches](https://chemaclass.com/blog/cut-the-token-bill-on-both-ends/)
+- [Meditations — A Roman emperor&#39;s private notes on how to live](https://chemaclass.com/readings/meditations/)<!-- BLOG-POST-LIST:END -->
