@@ -9,8 +9,6 @@
 <p align="center">
   <a href="https://chemaclass.com/"><img src="https://img.shields.io/badge/Website-chemaclass.com-1f6feb?style=flat-square&logo=hashnode&logoColor=white" alt="Website"></a>
   <a href="https://chemaclass.com/rss.xml"><img src="https://img.shields.io/badge/RSS-feed-orange?style=flat-square&logo=rss&logoColor=white" alt="RSS"></a>
-  <a href="https://www.linkedin.com/in/jose-maria-valera-reales/"><img src="https://img.shields.io/badge/LinkedIn-jose--maria--valera--reales-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/chemaclass"><img src="https://img.shields.io/badge/X-@chemaclass-000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ### 🏗 About Me
