@@ -34,5 +34,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Cut the Token Bill on Both Ends — Two leaks, two patches](https://chemaclass.com/blog/cut-the-token-bill-on-both-ends/)
-- [Meditations — A Roman emperor&#39;s private notes on how to live](https://chemaclass.com/readings/meditations/)<!-- BLOG-POST-LIST:END -->
+- [Laissez Faire, Laissez Passer — The market knows what no one person can](https://chemaclass.com/blog/laissez-faire-laissez-passer/)
+- [Cut the Token Bill on Both Ends — Two leaks, two patches](https://chemaclass.com/blog/cut-the-token-bill-on-both-ends/)<!-- BLOG-POST-LIST:END -->
