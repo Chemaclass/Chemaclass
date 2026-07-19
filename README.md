@@ -34,5 +34,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Laissez Faire, Laissez Passer — The market knows what no one person can](https://chemaclass.com/blog/laissez-faire-laissez-passer/)
-- [Cut the Token Bill on Both Ends — Two leaks, two patches](https://chemaclass.com/blog/cut-the-token-bill-on-both-ends/)<!-- BLOG-POST-LIST:END -->
+- [Working With the Garage Door Open — Visibility is passive, signal is not](https://chemaclass.com/blog/working-with-the-garage-door-open/)
+- [Laissez Faire, Laissez Passer — The market knows what no one person can](https://chemaclass.com/blog/laissez-faire-laissez-passer/)<!-- BLOG-POST-LIST:END -->
