@@ -34,5 +34,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Working With the Garage Door Open — Visibility is passive, signal is not](https://chemaclass.com/blog/working-with-the-garage-door-open/)
-- [Laissez Faire, Laissez Passer — The market knows what no one person can](https://chemaclass.com/blog/laissez-faire-laissez-passer/)<!-- BLOG-POST-LIST:END -->
+- [The Human Bottleneck — Attention is the one thing you can&#39;t scale](https://chemaclass.com/blog/the-human-bottleneck/)
+- [Working With the Garage Door Open — Visibility is passive, signal is not](https://chemaclass.com/blog/working-with-the-garage-door-open/)<!-- BLOG-POST-LIST:END -->
