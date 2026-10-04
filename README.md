@@ -34,5 +34,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Ownership Is Accepted, Never Assigned — You can hand out tasks, not ownership](https://chemaclass.com/blog/ownership-is-accepted-never-assigned/)
-- [The Human Bottleneck — Attention is the one thing you can&#39;t scale](https://chemaclass.com/blog/the-human-bottleneck/)<!-- BLOG-POST-LIST:END -->
+- [Ownership Is Accepted, Never Assigned — ](https://chemaclass.com/blog/ownership-is-accepted-never-assigned/)
+- [The Human Bottleneck — ](https://chemaclass.com/blog/the-human-bottleneck/)<!-- BLOG-POST-LIST:END -->
