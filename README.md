@@ -34,5 +34,5 @@ I write about technology, team culture, habits, and growth on my [Tech Blog](htt
 #### 📌 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Wake Claude Before You Do — ](https://chemaclass.com/blog/wake-claude-before-you-do/)
-- [Ownership Is Accepted, Never Assigned — ](https://chemaclass.com/blog/ownership-is-accepted-never-assigned/)<!-- BLOG-POST-LIST:END -->
+- [Wake Claude Before You Do](https://chemaclass.com/blog/wake-claude-before-you-do/)
+- [Ownership Is Accepted, Never Assigned](https://chemaclass.com/blog/ownership-is-accepted-never-assigned/)<!-- BLOG-POST-LIST:END -->
