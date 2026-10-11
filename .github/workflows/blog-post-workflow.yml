@@ -17,5 +17,4 @@ jobs:
           feed_list: "https://chemaclass.com/atom.xml"
           max_post_count: 2
           date_format: "yyyy-mm-dd"
-          custom_tags: "subtitle/subtitle/"
-          template: "$newline- [$title — $subtitle]($url)"
+          template: "$newline- [$title]($url)"
