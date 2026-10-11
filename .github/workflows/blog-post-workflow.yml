@@ -16,5 +16,4 @@ jobs:
         with:
           feed_list: "https://chemaclass.com/atom.xml"
           max_post_count: 2
-          date_format: "yyyy-mm-dd"
           template: "$newline- [$title]($url)"

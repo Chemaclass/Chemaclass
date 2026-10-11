@@ -8,30 +8,25 @@
 
 <p align="center">
   <a href="https://chemaclass.com/"><img src="https://img.shields.io/badge/Website-chemaclass.com-1f6feb?style=flat-square&logo=hashnode&logoColor=white" alt="Website"></a>
-  <a href="https://chemaclass.com/rss.xml"><img src="https://img.shields.io/badge/RSS-feed-orange?style=flat-square&logo=rss&logoColor=white" alt="RSS"></a>
+  <a href="https://chemaclass.com/atom.xml"><img src="https://img.shields.io/badge/Feed-atom-orange?style=flat-square&logo=rss&logoColor=white" alt="Feed"></a>
 </p>
 
-### 🏗 About Me
+### About me
 
-- 💻 **15+ years building software, 5+ leading teams.** Still writing code daily.
-- 🧱 Focus: **layered architecture**, **modular monoliths**, **TDD**, and **AI/agentic workflows**.
-- 🛠 I build open-source tools used in production. Best code is often code you don't write.
-- 🌱 Always learning, always sharing. Simplicity over complexity, always.
+- 15+ years building software, 5+ leading teams. I still write code daily.
+- Focus: layered architecture, modular monoliths, TDD, and AI agents.
+- I build open-source tools used in production. Simple, maintainable code wins.
 
-I believe in writing simple, maintainable code and collaborating on meaningful software.
+### Projects
 
-### 🔧 Projects & Contributions
+- [**phel-lang**](https://phel-lang.org): functional Lisp that compiles to PHP.
+- [**bashunit**](https://bashunit.typeddevs.com/): testing framework for Bash.
 
-I actively maintain and contribute to:
+### Writing
 
-- [**phel-lang**](https://phel-lang.org): Functional Lisp that compiles to PHP.
-- [**bashunit**](https://bashunit.typeddevs.com/): Fast, expressive testing framework for Bash.
+I write about software, teams, and habits on my [blog](https://chemaclass.com/blog/) and [reading notes](https://chemaclass.com/readings/).
 
-### ✍️ Writing & Knowledge Sharing
-
-I write about technology, team culture, habits, and growth on my [Tech Blog](https://chemaclass.com/blog/) and [Readings Blog](https://chemaclass.com/readings/).
-
-#### 📌 Latest Posts
+#### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Wake Claude Before You Do](https://chemaclass.com/blog/wake-claude-before-you-do/)
