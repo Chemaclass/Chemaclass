@@ -21,6 +21,7 @@
 
 - [**phel-lang**](https://phel-lang.org): functional Lisp that compiles to PHP.
 - [**bashunit**](https://bashunit.typeddevs.com/): testing framework for Bash.
+- [**agnostic-ai**](https://github.com/Chemaclass/agnostic-ai): write agents, skills, and rules once, sync them to your AI tools.
 
 ### Writing
 
